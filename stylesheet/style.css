@@ -1,0 +1,10 @@
+.visited{
+border-style: dashed;
+color:red;
+
+}
+
+.not{
+    border-style: solid;
+    color: green;
+}
